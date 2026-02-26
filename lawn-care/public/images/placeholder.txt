@@ -1,0 +1,17 @@
+Add the following images to this directory:
+- mowing.jpg
+- spring-cleanup.jpg
+- fall-cleanup.jpg
+- aeration.jpg
+- dethatching.jpg
+- overseeding.jpg
+- fertilizing.jpg
+- sod.jpg
+- garden.jpg
+- snow.jpg
+- og-image.jpg (1200x630 for OpenGraph)
+
+Also add to /public/:
+- logo.svg (primary logo)
+- logo.png (fallback)
+- favicon.ico

@@ -1,0 +1,15 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Subtle dot pattern -->
+  <circle cx="10" cy="10" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="40" cy="10" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="70" cy="10" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="25" cy="35" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="55" cy="35" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="85" cy="35" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="10" cy="60" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="40" cy="60" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="70" cy="60" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="25" cy="85" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="55" cy="85" r="2" fill="#28a72d" opacity="0.3"/>
+  <circle cx="85" cy="85" r="2" fill="#28a72d" opacity="0.3"/>
+</svg>
