@@ -40,7 +40,7 @@ export default function HomePage() {
         {/* Hero background image */}
         <div className="absolute inset-0 -z-10">
           <Image
-            src="/images/jake-nackos-C2PCa6DhlYE-unsplash.jpg"
+            src="/images/stock-photos/jake-nackos-C2PCa6DhlYE-unsplash.jpg"
             alt="Lawn care hero background"
             fill
             className="object-cover opacity-40"

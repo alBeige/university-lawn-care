@@ -38,7 +38,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-3 flex-shrink-0">
             <div className="relative w-10 h-10">
               <Image
-                src="/images/logo.jpg"
+                src="/images/Stock Photos/logo.jpg"
                 alt="University Lawn Care logo"
                 fill
                 className="object-contain"

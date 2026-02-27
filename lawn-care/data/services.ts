@@ -24,7 +24,7 @@ export const services: Service[] = [
     tagline: 'A consistently clean cut, every visit.',
     description:
       'Keep your lawn looking its best with our reliable mowing and maintenance service. We show up on schedule, cut to the ideal height for your grass type, and leave your yard looking sharp — no excuses, no shortcuts.',
-    heroImage: '/images/adlan-D5yUNyV30oE-unsplash.jpg',
+    heroImage: '/images/stock-photos/adlan-D5yUNyV30oE-unsplash.jpg',
     icon: '🌿',
     includes: [
       'Mowing to optimal grass height',
@@ -65,7 +65,7 @@ export const services: Service[] = [
     tagline: 'Wake your yard up right.',
     description:
       'After a long winter, your lawn needs a fresh start. Our spring cleanup removes debris, clears dead growth, and prepares your turf and beds for a healthy growing season.',
-    heroImage: '/images/anastasiya-badun-ZsWQ9cK9kKo-unsplash.jpg',
+    heroImage: '/images/stock-photos/anastasiya-badun-ZsWQ9cK9kKo-unsplash.jpg',
     icon: '🌱',
     includes: [
       'Leaf and debris removal from lawn and beds',
@@ -101,7 +101,7 @@ export const services: Service[] = [
     tagline: 'Protect your lawn through winter.',
     description:
       'Leaving leaves and debris on your lawn over winter smothers grass and invites disease. Our fall cleanup clears everything out so your turf emerges healthy come spring.',
-    heroImage: '/images/daniel-watson-8vBpYpTGo90-unsplash.jpg',
+    heroImage: '/images/stock-photos/daniel-watson-8vBpYpTGo90-unsplash.jpg',
     icon: '🍂',
     includes: [
       'Complete leaf removal from lawn and beds',
@@ -137,7 +137,7 @@ export const services: Service[] = [
     tagline: 'Let your roots breathe.',
     description:
       'Compacted soil suffocates grass roots and prevents water and nutrients from penetrating. Core aeration pulls small plugs from the soil, improving airflow and allowing your lawn to thrive.',
-    heroImage: '/images/j-kaur-_yxMydB9Zac-unsplash.jpg',
+    heroImage: '/images/stock-photos/j-kaur-_yxMydB9Zac-unsplash.jpg',
     icon: '🔵',
     includes: [
       'Full core aeration of entire lawn area',
@@ -172,7 +172,7 @@ export const services: Service[] = [
     tagline: 'Clear the clutter between the blades.',
     description:
       'Thatch is the layer of dead grass stems and roots that builds up between your living turf and the soil. A thick thatch layer blocks water, air, and nutrients. Dethatching clears it out so your lawn can flourish.',
-    heroImage: '/images/jake-nackos-C2PCa6DhlYE-unsplash.jpg',
+    heroImage: '/images/stock-photos/jake-nackos-C2PCa6DhlYE-unsplash.jpg',
     icon: '🌾',
     includes: [
       'Power rake or dethatch pass across entire lawn',
@@ -206,7 +206,7 @@ export const services: Service[] = [
     tagline: 'Fill in the gaps for a fuller lawn.',
     description:
       'Thin, patchy lawns benefit enormously from overseeding. We spread premium grass seed over your existing turf to thicken it up, improve drought resistance, and crowd out weeds naturally.',
-    heroImage: '/images/michael-kahn-xWAsrLw_1hk-unsplash.jpg',
+    heroImage: '/images/stock-photos/michael-kahn-xWAsrLw_1hk-unsplash.jpg',
     icon: '🌱',
     includes: [
       'Soil preparation and light scarification',
@@ -242,7 +242,7 @@ export const services: Service[] = [
     tagline: 'Feed the good, fight the bad.',
     description:
       'A tailored fertilization and weed control program gives your lawn the nutrients it needs while keeping invasive weeds from taking over. We create a plan specific to your soil and grass type.',
-    heroImage: '/images/michael-smith-1MNJ9y1Wr50-unsplash.jpg',
+    heroImage: '/images/stock-photos/michael-smith-1MNJ9y1Wr50-unsplash.jpg',
     icon: '💧',
     includes: [
       'Soil assessment and customized treatment plan',
@@ -278,7 +278,7 @@ export const services: Service[] = [
     tagline: 'Instant lawn, lasting results.',
     description:
       'When you need a full lawn fast, sod delivers. We handle everything from site preparation and grading to laying and rolling premium sod, so you can enjoy a lush yard without the wait.',
-    heroImage: '/images/adlan-D5yUNyV30oE-unsplash.jpg',
+    heroImage: '/images/stock-photos/adlan-D5yUNyV30oE-unsplash.jpg',
     icon: '🟩',
     includes: [
       'Site preparation and existing turf removal',
@@ -315,7 +315,7 @@ export const services: Service[] = [
     tagline: 'Polished beds, zero effort from you.',
     description:
       'Overgrown garden beds drag down an otherwise great yard. We keep your beds weeded, edged, and mulched so they frame your home beautifully all season long.',
-    heroImage: '/images/anastasiya-badun-ZsWQ9cK9kKo-unsplash.jpg',
+    heroImage: '/images/stock-photos/anastasiya-badun-ZsWQ9cK9kKo-unsplash.jpg',
     icon: '🌸',
     includes: [
       'Hand weeding of all bed areas',
@@ -346,7 +346,7 @@ export const services: Service[] = [
     tagline: 'Safe, clear, and stress-free all winter.',
     description:
       'Don\'t battle the cold yourself. Our snow removal service keeps your driveway, walkways, and steps clear after every significant snowfall — so you can get on with your day.',
-    heroImage: '/images/daniel-watson-8vBpYpTGo90-unsplash.jpg',
+    heroImage: '/images/stock-photos/daniel-watson-8vBpYpTGo90-unsplash.jpg',
     icon: '❄️',
     includes: [
       'Driveway clearing after every 2cm+ snowfall',

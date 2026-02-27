@@ -1,1 +1,1 @@
-{"version":1,"functions":{"/faq":{},"/get-a-quote":{},"/about":{},"/privacy":{},"/services/[slug]":{},"/testimonials":{},"/contact":{},"/services":{},"/":{},"/terms":{}}}
+{"version":1,"functions":{"/get-a-quote":{},"/contact":{},"/about":{},"/faq":{},"/privacy":{},"/services":{},"/":{},"/terms":{},"/services/[slug]":{},"/testimonials":{}}}
