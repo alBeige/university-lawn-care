@@ -1,3 +1,5 @@
+// Updated paths & rebuild trigger
+// (automatically added by bot to force Vercel redeploy)
 export interface ServiceFAQ {
   question: string
   answer: string
