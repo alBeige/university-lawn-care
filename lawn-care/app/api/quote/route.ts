@@ -10,15 +10,24 @@ export async function POST(request: NextRequest) {
       ...body,
     }, null, 2))
 
-    // Email sending placeholder:
-    // import nodemailer from 'nodemailer'
-    // const transporter = nodemailer.createTransport({ ... })
-    // await transporter.sendMail({
-    //   from: 'noreply@universitylawncare.ca',
-    //   to: 'hello@universitylawncare.ca',
-    //   subject: `New quote request from ${body.firstName} ${body.lastName}`,
-    //   text: JSON.stringify(body, null, 2),
-    // })
+    // Send email notification using Nodemailer
+    const nodemailer = require('nodemailer');
+    const transporter = nodemailer.createTransport({
+      host: process.env.SMTP_HOST,
+      port: Number(process.env.SMTP_PORT),
+      secure: process.env.SMTP_SECURE === 'true',
+      auth: {
+        user: process.env.SMTP_USER,
+        pass: process.env.SMTP_PASS,
+      },
+    });
+
+    await transporter.sendMail({
+      from: 'noreply@universitylawncare.ca',
+      to: 'alex_begin@live.com',
+      subject: `New quote request from ${body.firstName} ${body.lastName}`,
+      text: JSON.stringify(body, null, 2),
+    });
 
     return NextResponse.json({ success: true, message: 'Quote request received.' }, { status: 201 })
   } catch (error) {
