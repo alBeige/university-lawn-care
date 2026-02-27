@@ -13,5 +13,5 @@ Add the following images to this directory:
 
 Also add to /public/:
 - logo.svg (primary logo)
-- logo.png (fallback)
+-- logo.jpg (fallback)
 - favicon.ico

@@ -27,7 +27,7 @@ Place the following files in `/public/`:
 | File | Description |
 |------|-------------|
 | `logo.svg` | Primary logo (used in header and footer) |
-| `logo.png` | Fallback logo |
+| `logo.jpg` | Fallback logo |
 | `favicon.ico` | Favicon |
 | `og-image.jpg` | OpenGraph image (1200×630px) |
 
@@ -97,7 +97,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 │
 └── public/
     ├── logo.svg                # Add your logo here
-    ├── logo.png                # Logo fallback
+    ├── logo.jpg                # Logo fallback
     └── images/                 # Service images
 ```
 
@@ -202,7 +202,7 @@ npm start
 
 ## Customization Checklist
 
-- [ ] Add your logo to `/public/logo.svg` and `/public/logo.png`
+- [ ] Add your logo to `/public/logo.svg` and `/public/logo.jpg`
 - [ ] Add service images to `/public/images/`
 - [ ] Update contact details in `components/Footer.tsx` and `app/contact/page.tsx`
 - [ ] Update `metadataBase` URL in `app/layout.tsx`
