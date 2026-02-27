@@ -21,7 +21,7 @@ export default function Footer() {
                   alt="University Lawn Care"
                   fill
                   className="object-contain"
-                  onError={(e) => { (e.target as HTMLImageElement).src = '/logo.jpg' }}
+                  onError={(e) => { (e.target as HTMLImageElement).src = '/images/logo.jpg' }}
                 />
               </div>
               <span className="font-display font-bold text-white text-lg leading-tight">

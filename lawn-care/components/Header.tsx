@@ -45,7 +45,7 @@ export default function Header() {
                 priority
                 onError={(e) => {
                   const img = e.target as HTMLImageElement
-                  img.src = '/logo.jpg'
+                  img.src = '/images/logo.jpg'
                 }}
               />
             </div>
